@@ -7,6 +7,7 @@ allowedAuthors:
   usernames:
     # GitHub username
     # - 'john-doe'
+    - 'nimbinatus'
 notificationList:
   # GitHub username or team name
   # - '@DryRunSec/security'
